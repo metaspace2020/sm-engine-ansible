@@ -1,3 +1,5 @@
+# This project has been migrated into https://github.com/metaspace2020/metaspace
+
 # Ansible project for setting up machines running SM platform
 Check for more information about the SM Platform components
 * [SM Engine](https://github.com/METASPACE2020/sm-engine)
