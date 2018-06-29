@@ -37,4 +37,4 @@
   args:
     chdir: "{{ sm_home }}"
     executable: /bin/bash
-  shell: "{{ sm_activate_venv }} && pip install ."
+  shell: "{{ sm_activate_venv }} && pip install --process-dependency-links ."
